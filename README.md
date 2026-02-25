@@ -70,6 +70,16 @@ A live public deployment of this template is available at [https://demo.r2explor
    npx wrangler deploy
    ```
 
+## Local environment variables
+
+If you run the Worker locally, define secrets and runtime settings in a `.dev.vars` file:
+
+```bash
+cp .dev.vars.example .dev.vars
+```
+
+Then update `.dev.vars` with your values (for example: OpenAI and Twilio credentials).
+
 ## Next steps
 
 By default this template is **readonly**.

@@ -1,0 +1,7 @@
+OPENAI_API_KEY=your_openai_api_key
+TWILIO_ACCOUNT_SID=your_twilio_account_sid
+TWILIO_AUTH_TOKEN=your_twilio_auth_token
+TWILIO_WHATSAPP_FROM=whatsapp:+10000000000
+WA_GROUP_NAME=your_whatsapp_group_name
+DEFAULT_MODEL=gpt-4o-mini
+PORT=3000
