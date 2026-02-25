@@ -181,3 +181,6 @@ build/
 
 # Turbo output
 .turbo/
+
+# Local Wrangler vars
+.dev.vars
